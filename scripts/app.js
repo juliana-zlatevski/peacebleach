@@ -15,7 +15,7 @@ function animate() {
   }, 2000);
 
   setTimeout(() => {
-    site.classList.add('active');
+    // site.classList.add('active');
     cta.classList.add('active');
   }, 3000);
 
